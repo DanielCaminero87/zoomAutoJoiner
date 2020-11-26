@@ -4,4 +4,4 @@ The code is pretty straight foward i left comments to help you configure this to
 
 https://discord.gg/rXdWeMM3
 
-#STILL UNDER TESTING MAY NOT WORK AS EXPECTED
+# STILL UNDER TESTING MAY NOT WORK AS EXPECTED
