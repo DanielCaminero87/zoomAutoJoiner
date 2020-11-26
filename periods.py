@@ -15,7 +15,7 @@ def checkSkip():
 def time1():
     keepGoing = True
     check = checkSkip()
-    if check > 800:
+    if check < 800:
         pass
     else:
         while keepGoing == True:
@@ -29,7 +29,7 @@ def time1():
 def time2():
     keepGoing = True
     check = checkSkip()
-    if check > 810:
+    if check < 810:
         pass
     else:
         while keepGoing == True:
@@ -41,7 +41,7 @@ def time2():
 def time3():
     keepGoing = True
     check = checkSkip()
-    if check > 830:
+    if check < 830:
         pass
     else:
         while keepGoing == True:
@@ -53,7 +53,7 @@ def time3():
 def time4():
     keepGoing = True
     check = checkSkip()
-    if check > 915:
+    if check < 915:
         pass
     else:
         while keepGoing == True:
@@ -65,7 +65,7 @@ def time4():
 def time5():
     keepGoing = True
     check = checkSkip()
-    if check > 1000:
+    if check < 1000:
         pass
     else:
         while keepGoing == True:
@@ -77,7 +77,7 @@ def time5():
 def time6():
     keepGoing = True
     check = checkSkip()
-    if check > 1045:
+    if check < 1045:
         pass
     else:
         while keepGoing == True:
@@ -89,7 +89,7 @@ def time6():
 def time7():
     keepGoing = True
     check = checkSkip()
-    if check > 1130:
+    if check < 1130:
         pass
     else:
         while keepGoing == True:
@@ -101,7 +101,7 @@ def time7():
 def time8():
     keepGoing = True
     check = checkSkip()
-    if check > 1200:
+    if check < 1200:
         pass
     else:
         while keepGoing == True:
@@ -113,7 +113,7 @@ def time8():
 def time9():
     keepGoing = True
     check = checkSkip()
-    if check > 1230:
+    if check < 1230:
         pass
     else:
         while keepGoing == True:
@@ -125,7 +125,7 @@ def time9():
 def time10():
     keepGoing = True
     check = checkSkip()
-    if check > 1315:
+    if check < 1315:
         pass
     else:
         while keepGoing == True:
@@ -137,7 +137,7 @@ def time10():
 def time11():
     keepGoing = True
     check = checkSkip()
-    if check > 1400:
+    if check < 1400:
         pass
     else:
         while keepGoing == True:
@@ -151,7 +151,7 @@ def time11():
 def time12():
     keepGoing = True
     check = checkSkip()
-    if check > 920:
+    if check < 920:
         pass
     else:
         while keepGoing == True:
@@ -163,7 +163,7 @@ def time12():
 def time13():
     keepGoing = True
     check = checkSkip()
-    if check > 1005:
+    if check < 1005:
         pass
     else:
         while keepGoing == True:
@@ -175,7 +175,7 @@ def time13():
 def time14():
     keepGoing = True
     check = checkSkip()
-    if check > 1050:
+    if check < 1050:
         pass
     else:
         while keepGoing == True:
@@ -187,7 +187,7 @@ def time14():
 def time15():
     keepGoing = True
     check = checkSkip()
-    if check > 1135:
+    if check < 1135:
         pass
     else:
         while keepGoing == True:
@@ -199,7 +199,7 @@ def time15():
 def time16():
     keepGoing = True
     check = checkSkip()
-    if check > 1205:
+    if check < 1205:
         pass
     else:
         while keepGoing == True:
@@ -211,7 +211,7 @@ def time16():
 def time17():
     keepGoing = True
     check = checkSkip()
-    if check > 1235:
+    if check < 1235:
         pass
     else:
         while keepGoing == True:
@@ -223,7 +223,7 @@ def time17():
 def time18():
     keepGoing = True
     check = checkSkip()
-    if check > 1325:
+    if check < 1325:
         pass
     else:
         while keepGoing == True:
